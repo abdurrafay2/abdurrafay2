@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdurrafay2
-- 👀 I’m interested in data science and Machine lesrning
+- 👀 I’m a MERN stack specialist.
 - 🌱 I’m currently learning data science 
-- 💞️ I’m also skilled in website development
+- 💞️ I’m also skilled in front-end development
 - 📫 How to reach me at my email abdurrafay2@gmail.com
 
 <!---
