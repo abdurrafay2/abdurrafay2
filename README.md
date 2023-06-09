@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdurrafay2
 - 👀 I’m a MERN stack specialist.
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m also skilled in front-end development
 - 📫 How to reach me at my email abdurrafay2@gmail.com
 
